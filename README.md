@@ -1,6 +1,6 @@
 - 👋 Assalam-o-Alaikum, I’m @shaheer558
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m web developer and currently learning android development and advance AI.
 - 📫 You can reach me at Linkedlin (https://www.linkedin.com/in/ms-janjua-1b748b1ab), Facebook(https://www.facebook.com/profile.php?id=100006438027420)
 
 <!---
